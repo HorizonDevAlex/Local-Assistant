@@ -1,8 +1,6 @@
 # Local-Assistant
 Very early stage assistant. | v0.0.1
 -------------------------------------
----WORK IN PROGRESS---
--------------------------------------
 Description:
 -------------------------------------
 This is currently nothing more than a script with a few lines of code.
